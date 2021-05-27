@@ -3,7 +3,7 @@
 Repository containing portfolio of data science projects completed by me for self learning, and social communication. 
 Presented in the form of R markdown files.
 
-For a more information about project details and data source sharing, contact at apirat.yn@gmail.com
+For a more information about project, contact at apirat.yn@gmail.com
 
 ## Contents
 
