@@ -13,5 +13,4 @@ Why people think about sex-worker in Thaialnd is the one of social issues ? Beca
 For the studies, we focusing on general descriptive by web scraping data, we created a dataset of 930 observtions from Bangkok including their price, age, gender, district of Bangkok. Here’s what we learn. Using R Programming for data manipulation
 * Using dplyr for data manipulation 
 * Using ggplot2 for data visualization
-* ![alt text] (https://drive.google.com/file/d/14z1qNa5OUW-UEbtFyL2oQWK4nWw-VDAS/view?usp=sharing)
 
