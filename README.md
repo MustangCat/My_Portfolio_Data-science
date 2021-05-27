@@ -14,3 +14,4 @@ For the studies, we focusing on general descriptive by web scraping data, we cre
 * Using dplyr for data manipulation 
 * Using ggplot2 for data visualization
 
+![Alt text] (https://github.com/MustangCat/My_Portfolio_Data-visulization/blob/dfaad27f8a693758a1eeeeff85ea4ecd1a13ed8c/plot_zoom.png)
