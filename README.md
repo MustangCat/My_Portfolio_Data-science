@@ -1,14 +1,15 @@
-## Data visulization
+# Data visulization
 
 Repository containing portfolio of data science projects completed by me for self learning, and social communication. 
 Presented in the form of R markdown files.
 
 For a more information about project details and data source sharing, contact at apirat.yn@gmail.com
 
-### Jekyll Themes
+## Contents
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MustangCat/My_Portfolio_Data-visulization/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Why people think about sex-worker in Thaialnd is the one of social issues ? Because of ethical dilemma, its should be right or clearance depend on sccio-economic measurement.
+For the studies, we focusing on general descriptive by web scraping data, we created a dataset of 930 observtions from Bangkok including their price, age, gender, district of Bangkok. Here’s what we learn.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### The story of sex-worker in Bangkok
+* Using R Programming for data manipulation and data visualization
+* 
