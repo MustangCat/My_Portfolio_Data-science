@@ -1,4 +1,4 @@
-# Data Science Project
+# Bangkok Data || EDA Project
 
 Repository containing portfolio of data science projects completed by me for self learning, and social communication. 
 Presented in the form of R markdown files.
